@@ -9,7 +9,7 @@ Uma chave de API válida para acessar a API do NVD
 Um token de bot do Telegram e um chat_id válido para receber as mensagens de alerta
 Configuração
 Clone este repositório em sua máquina local:
-git clone https://github.com/seunome/seuprojeto.git
+git clone https://github.com/jdlimajrr/cveandrecomend-govbr.git
 Crie um arquivo secrets.py na raiz do projeto com as seguintes informações:
 NVD_API_KEY = 'sua chave de API do NVD'
 TELEGRAM_BOT_TOKEN = 'seu token de bot do Telegram'
